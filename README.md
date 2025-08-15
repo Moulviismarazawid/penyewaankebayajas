@@ -1,5 +1,5 @@
-# Aplikasi CI4 — Auth + Google OAuth
-
+# Aplikasi Sewa Kebaya & Jas CI4 — Auth + Google OAuth Menggunakan Metode FIFO
+ 
 ## Dev Setup
 1. `cp .env.example .env` lalu isi variabel.
 2. `composer install`
